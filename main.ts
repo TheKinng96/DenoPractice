@@ -1,0 +1,1 @@
+console.log("hi", Deno.env.get("USERNAME"))
